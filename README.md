@@ -57,12 +57,12 @@ Moderation Command list:
           - Banned users:
 
 - -+ GetVoiceChannelOfUser - [Audit] -  will send in chat all the names of voice channels a given user was on, and for how many days\hours\minutes\seconds.Such as the following:
-         - #『🔒』Private 3    for 0 Days, 2 Hours, 10 Minutes and 14 Seconds.
-         - #⭐Management⭐    for 0 Days, 2 Hours, 2 Minutes and 10 Seconds.
-         - #👮🏼 Staff Talk 👮🏼    for 0 Days, 1 Hours, 57 Minutes and 22 Seconds.
-         - #『🔒』Private 2    for 0 Days, 1 Hours, 49 Minutes and 45 Seconds.
-         - #💫 Helpers 💫    for 0 Days, 0 Hours, 59 Minutes and 26 Seconds.
-         - #『🔊』Talk 3    for 0 Days, 0 Hours, 52 Minutes and 45 Seconds.
+  - #『🔒』Private 3    for 0 Days, 2 Hours, 10 Minutes and 14 Seconds.
+  - #⭐Management⭐    for 0 Days, 2 Hours, 2 Minutes and 10 Seconds.
+  - #👮🏼 Staff Talk 👮🏼    for 0 Days, 1 Hours, 57 Minutes and 22 Seconds.
+  - #『🔒』Private 2    for 0 Days, 1 Hours, 49 Minutes and 45 Seconds.
+  - #💫 Helpers 💫    for 0 Days, 0 Hours, 59 Minutes and 26 Seconds.
+  - #『🔊』Talk 3    for 0 Days, 0 Hours, 52 Minutes and 45 Seconds.
      
 - -+ CreateStaffTemplate - will create a copy-able ``` message that displays all the staff of a server, split into category of their roles.
 - -+ AuditAll - [Audit] - Will Audit All the staff.
